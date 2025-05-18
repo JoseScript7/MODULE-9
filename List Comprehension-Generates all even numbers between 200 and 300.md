@@ -40,7 +40,7 @@ obj.display()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/646b5759-11b6-49b8-bd8d-84af16e765e7)
+![image](https://github.com/user-attachments/assets/166017ac-5477-4f46-8109-ef863e941352)
 
 
 ## RESULT:
